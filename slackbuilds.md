@@ -1,6 +1,8 @@
 My SlackBuilds in SBo
 =====================
 
+[Maintainer status](https://slackbuilds.org/maintainer_status.html)
+
 | Software                                                 | Version                                                                                                                                                       |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tiger                                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/tiger.svg)](https://repology.org/metapackage/tiger)                           |
@@ -22,8 +24,8 @@ My SlackBuilds in SBo
 | yubico-piv-tool                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/yubico-piv-tool.svg)](https://repology.org/metapackage/yubico-piv-tool)       |
 | kbfs                                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/kbfs.svg)](https://repology.org/metapackage/kbfs)                             |
 | gnupg-pkcs11-scd                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/gnupg-pkcs11-scd.svg)](https://repology.org/metapackage/gnupg-pkcs11-scd)     |
-| pam\_ssh\_agent\_auth                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/pam_ssh_agent_auth)](https://repology.org/metapackage/pam_ssh_agent_auth)     |
-| perl-Error                                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:error)](https://repology.org/metapackage/perl:error)                     |
+| pam\_ssh\_agent\_auth                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/pam-ssh-agent-auth.svg)](https://repology.org/metapackage/pam-ssh-agent-auth)     |
+| perl-Error                                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:error.svg)](https://repology.org/metapackage/perl:error)                     |
 
 Radio
 -----
