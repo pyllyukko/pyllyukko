@@ -26,6 +26,8 @@ My SlackBuilds in SBo
 | gnupg-pkcs11-scd                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/gnupg-pkcs11-scd.svg)](https://repology.org/metapackage/gnupg-pkcs11-scd)     |
 | pam\_ssh\_agent\_auth                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/pam-ssh-agent-auth.svg)](https://repology.org/metapackage/pam-ssh-agent-auth)     |
 | perl-Error                                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:error.svg)](https://repology.org/metapackage/perl:error)                     |
+| perl-HTTP-CookieJar                                      | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:http-cookiejar.svg)](https://repology.org/metapackage/perl:http-cookiejar) |
+| perl-Net-LibIDN2                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-libidn2.svg)](https://repology.org/metapackage/perl:net-libidn2)     |
 
 Radio
 -----
