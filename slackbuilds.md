@@ -29,7 +29,7 @@ My SlackBuilds in SBo
 | perl-HTTP-CookieJar                                      | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:http-cookiejar.svg)](https://repology.org/metapackage/perl:http-cookiejar)         |
 | perl-Net-LibIDN2                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-libidn2.svg)](https://repology.org/metapackage/perl:net-libidn2)               |
 | perl-CryptX                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:cryptx.svg)](https://repology.org/metapackage/perl:cryptx)                         |
-| perl-Email-Address-XS                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-address-xs)](https://repology.org/metapackage/perl:email-address-xs)         |
+| perl-Email-Address-XS                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-address-xs.svg)](https://repology.org/metapackage/perl:email-address-xs)     |
 
 Radio
 -----
