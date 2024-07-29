@@ -30,6 +30,7 @@ My SlackBuilds in SBo
 | perl-Net-LibIDN2                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-libidn2.svg)](https://repology.org/metapackage/perl:net-libidn2)               |
 | perl-CryptX                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:cryptx.svg)](https://repology.org/metapackage/perl:cryptx)                         |
 | perl-Email-Address-XS                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-address-xs.svg)](https://repology.org/metapackage/perl:email-address-xs)     |
+| perl-Config-Tiny                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:config-tiny.svg)](https://repology.org/metapackage/perl:config-tiny)               |
 
 Radio
 -----
