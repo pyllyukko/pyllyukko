@@ -25,12 +25,28 @@ My SlackBuilds in SBo
 | kbfs                                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/kbfs.svg)](https://repology.org/metapackage/kbfs)                                       |
 | gnupg-pkcs11-scd                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/gnupg-pkcs11-scd.svg)](https://repology.org/metapackage/gnupg-pkcs11-scd)               |
 | pam\_ssh\_agent\_auth                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/pam-ssh-agent-auth.svg)](https://repology.org/metapackage/pam-ssh-agent-auth)           |
-| perl-Error                                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:error.svg)](https://repology.org/metapackage/perl:error)                           |
-| perl-HTTP-CookieJar                                      | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:http-cookiejar.svg)](https://repology.org/metapackage/perl:http-cookiejar)         |
-| perl-Net-LibIDN2                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-libidn2.svg)](https://repology.org/metapackage/perl:net-libidn2)               |
-| perl-CryptX                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:cryptx.svg)](https://repology.org/metapackage/perl:cryptx)                         |
-| perl-Email-Address-XS                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-address-xs.svg)](https://repology.org/metapackage/perl:email-address-xs)     |
-| perl-Config-Tiny                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:config-tiny.svg)](https://repology.org/metapackage/perl:config-tiny)               |
+| python3-pyspf                                            | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/python:pyspf.svg)](https://repology.org/metapackage/python:pyspf)                       |
+
+Perl
+----
+
+| Software                                                 | Version                                                                                                                                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| perl-Error                                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:error.svg)](https://repology.org/metapackage/perl:error)                                   |
+| perl-HTTP-CookieJar                                      | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:http-cookiejar.svg)](https://repology.org/metapackage/perl:http-cookiejar)                 |
+| perl-Net-LibIDN2                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-libidn2.svg)](https://repology.org/metapackage/perl:net-libidn2)                       |
+| perl-CryptX                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:cryptx.svg)](https://repology.org/metapackage/perl:cryptx)                                 |
+| perl-Email-Address-XS                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-address-xs.svg)](https://repology.org/metapackage/perl:email-address-xs)             |
+| perl-Config-Tiny                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:config-tiny.svg)](https://repology.org/metapackage/perl:config-tiny)                       |
+| perl-Config-Tiny                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:config-tiny.svg)](https://repology.org/metapackage/perl:config-tiny)                       |
+| perl-Net-IDN-Encode                                      | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-idn-encode.svg)](https://repology.org/metapackage/perl:net-idn-encode)                 |
+| perl-MooX-Types-MooseLike                                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:moox-types-mooselike.svg)](https://repology.org/metapackage/perl:moox-types-mooselike)     |
+| perl-Throwable                                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:throwable.svg)](https://repology.org/metapackage/perl:throwable)                           |
+| perl-Email-Simple                                        | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-simple.svg)](https://repology.org/metapackage/perl:email-simple)                     |
+| perl-Email-MessageID                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-messageid.svg)](https://repology.org/metapackage/perl:email-messageid)               |
+| perl-Email-MIME-ContentType                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-mime-contenttype.svg)](https://repology.org/metapackage/perl:email-mime-contenttype) |
+| perl-Email-MIME-Encodings                                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-mime-encodings.svg)](https://repology.org/metapackage/perl:email-mime-encodings)     |
+| perl-Test-File-ShareDir                                  | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:test-file-sharedir.svg)](https://repology.org/metapackage/perl:test-file-sharedir)         |
 
 Radio
 -----
