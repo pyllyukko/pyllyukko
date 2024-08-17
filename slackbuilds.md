@@ -46,6 +46,12 @@ Perl
 | perl-Email-MIME-ContentType                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-mime-contenttype.svg)](https://repology.org/metapackage/perl:email-mime-contenttype) |
 | perl-Email-MIME-Encodings                                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-mime-encodings.svg)](https://repology.org/metapackage/perl:email-mime-encodings)     |
 | perl-Test-File-ShareDir                                  | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:test-file-sharedir.svg)](https://repology.org/metapackage/perl:test-file-sharedir)         |
+| perl-Email-Abstract                                      | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-abstract.svg)](https://repology.org/metapackage/perl:email-abstract)                 |
+| perl-Email-Sender                                        | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-sender.svg)](https://repology.org/metapackage/perl:email-sender)                     |
+| perl-Mail-DMARC                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:mail-dmarc.svg)](https://repology.org/metapackage/perl:mail-dmarc)                         |
+| perl-Email-MessageID                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-messageid.svg)](https://repology.org/metapackage/perl:email-messageid)               |
+| perl-Email-MIME                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-mime.svg)](https://repology.org/metapackage/perl:email-mime)                         |
+| perl-Net-DNS-Resolver-Mock                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-net-dns-resolver-mock.svg)](https://repology.org/metapackage/perl:net-dns-resolver-mock) |
 
 Radio
 -----
