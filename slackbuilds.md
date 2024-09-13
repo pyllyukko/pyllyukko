@@ -11,7 +11,6 @@ My SlackBuilds in SBo
 | [OneRNG](https://onerng.info/)                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/onerng.svg)](https://repology.org/metapackage/onerng)                                   |
 | silc-toolkit                                             | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/silc-toolkit.svg)](https://repology.org/metapackage/silc-toolkit)                       |
 | [adom](https://www.adom.de)                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/adom.svg)](https://repology.org/metapackage/adom)                                       |
-| [Hopper](https://www.hopperapp.com/)                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/hopper.svg)](https://repology.org/metapackage/hopper)                                   |
 | AppArmor                                                 | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/apparmor.svg)](https://repology.org/metapackage/apparmor)                               |
 | NetworkManager-ssh                                       | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/networkmanager-ssh.svg)](https://repology.org/metapackage/networkmanager-ssh)           |
 | libprelude                                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/libprelude.svg)](https://repology.org/metapackage/libprelude)                           |
@@ -26,6 +25,7 @@ My SlackBuilds in SBo
 | gnupg-pkcs11-scd                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/gnupg-pkcs11-scd.svg)](https://repology.org/metapackage/gnupg-pkcs11-scd)               |
 | pam\_ssh\_agent\_auth                                    | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/pam-ssh-agent-auth.svg)](https://repology.org/metapackage/pam-ssh-agent-auth)           |
 | python3-pyspf                                            | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/python:pyspf.svg)](https://repology.org/metapackage/python:pyspf)                       |
+| aircrack-ng                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/aircrack-ng.svg)](https://repology.org/metapackage/aircrack-ng)                         |
 
 Perl
 ----
@@ -51,7 +51,7 @@ Perl
 | perl-Mail-DMARC                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:mail-dmarc.svg)](https://repology.org/metapackage/perl:mail-dmarc)                         |
 | perl-Email-MessageID                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-messageid.svg)](https://repology.org/metapackage/perl:email-messageid)               |
 | perl-Email-MIME                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-mime.svg)](https://repology.org/metapackage/perl:email-mime)                         |
-| perl-Net-DNS-Resolver-Mock                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-net-dns-resolver-mock.svg)](https://repology.org/metapackage/perl:net-dns-resolver-mock) |
+| perl-Net-DNS-Resolver-Mock                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-dns-resolver-mock.svg)](https://repology.org/metapackage/perl:net-dns-resolver-mock)   |
 
 Radio
 -----
