@@ -27,6 +27,7 @@ My SlackBuilds in SBo
 | python3-pyspf                                            | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/python:pyspf.svg)](https://repology.org/metapackage/python:pyspf)                       |
 | aircrack-ng                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/aircrack-ng.svg)](https://repology.org/metapackage/aircrack-ng)                         |
 | oidentd                                                  | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/oidentd.svg)](https://repology.org/metapackage/oidentd)                                 |
+| libmodsecurity                                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/libmodsecurity.svg)](https://repology.org/metapackage/libmodsecurity)                   |
 
 Perl
 ----
