@@ -1,5 +1,7 @@
 ![i3.ans](https://raw.githubusercontent.com/pyllyukko/pyllyukko/main/I3-2.png)
 
+🔑 You can find my PGP key (`0x78C2DF2D1A170CC6`) here: <https://keybase.io/pyllyukko/pgp_keys.asc>
+
 <!--
 **pyllyukko/pyllyukko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
