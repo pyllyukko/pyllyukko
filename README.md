@@ -2,6 +2,8 @@
 
 🔑 You can find my PGP key (`0x78C2DF2D1A170CC6`) here: <https://keybase.io/pyllyukko/pgp_keys.asc>
 
+Key fingerprint = `B284 21D6 03DE 0A1D 17AE  4415 78C2 DF2D 1A17 0CC6`
+
 <!--
 **pyllyukko/pyllyukko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
