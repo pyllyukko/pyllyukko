@@ -69,3 +69,4 @@ Radio
 | redsea                                                   | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/redsea.svg)](https://repology.org/metapackage/redsea)                         |
 | hackrf                                                   | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/hackrf.svg)](https://repology.org/metapackage/hackrf)                         |
 | rtl\_433                                                 | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/rtl-433.svg)](https://repology.org/metapackage/rtl-433)                       |
+| libosmocore                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/libosmocore.svg)](https://repology.org/metapackage/libosmocore)               |
