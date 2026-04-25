@@ -29,6 +29,7 @@ My SlackBuilds in SBo
 | aircrack-ng                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/aircrack-ng.svg)](https://repology.org/metapackage/aircrack-ng)                         |
 | oidentd                                                  | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/oidentd.svg)](https://repology.org/metapackage/oidentd)                                 |
 | libmodsecurity                                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/libmodsecurity.svg)](https://repology.org/metapackage/libmodsecurity)                   |
+| [edit](https://github.com/microsoft/edit)                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/microsoft-edit.svg)](https://repology.org/metapackage/microsoft-edit)                   |
 
 Perl
 ----
