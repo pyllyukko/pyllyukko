@@ -10,7 +10,6 @@ My SlackBuilds in SBo
 | [chipsec](https://github.com/chipsec/chipsec/releases)   | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/chipsec.svg)](https://repology.org/metapackage/chipsec)                                 |
 | [OneRNG](https://onerng.info/)                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/onerng.svg)](https://repology.org/metapackage/onerng)                                   |
 | silc-toolkit                                             | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/silc-toolkit.svg)](https://repology.org/metapackage/silc-toolkit)                       |
-| [adom](https://www.adom.de)                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/adom.svg)](https://repology.org/metapackage/adom)                                       |
 | AppArmor                                                 | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/apparmor.svg)](https://repology.org/metapackage/apparmor)                               |
 | NetworkManager-ssh                                       | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/networkmanager-ssh.svg)](https://repology.org/metapackage/networkmanager-ssh)           |
 | libprelude                                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/libprelude.svg)](https://repology.org/metapackage/libprelude)                           |
@@ -71,3 +70,11 @@ Radio
 | hackrf                                                   | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/hackrf.svg)](https://repology.org/metapackage/hackrf)                         |
 | rtl\_433                                                 | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/rtl-433.svg)](https://repology.org/metapackage/rtl-433)                       |
 | libosmocore                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/libosmocore.svg)](https://repology.org/metapackage/libosmocore)               |
+
+Games
+-----
+
+| Software                                                 | Version                                                                                                                                                                 |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [adom](https://www.adom.de)                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/adom.svg)](https://repology.org/metapackage/adom)                                       |
+| [triplane](https://triplane.sourceforge.net/)            | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/triplane.svg)](https://repology.org/metapackage/triplane)                               |
