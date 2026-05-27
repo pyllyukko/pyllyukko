@@ -78,3 +78,4 @@ Games
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [adom](https://www.adom.de)                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/adom.svg)](https://repology.org/metapackage/adom)                                       |
 | [triplane](https://triplane.sourceforge.net/)            | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/triplane.svg)](https://repology.org/metapackage/triplane)                               |
+| [wings2](https://wings2.net/)                            | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/wings2.svg)](https://repology.org/metapackage/wings2)                                   |
