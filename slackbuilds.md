@@ -29,6 +29,7 @@ My SlackBuilds in SBo
 | oidentd                                                  | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/oidentd.svg)](https://repology.org/metapackage/oidentd)                                 |
 | libmodsecurity                                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/libmodsecurity.svg)](https://repology.org/metapackage/libmodsecurity)                   |
 | [edit](https://github.com/microsoft/edit)                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/microsoft-edit.svg)](https://repology.org/metapackage/microsoft-edit)                   |
+| lksctp-tools                                             | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/lksctp-tools.svg)](https://repology.org/metapackage/lksctp-tools)                       |
 
 Perl
 ----
@@ -55,6 +56,10 @@ Perl
 | perl-Email-MessageID                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-messageid.svg)](https://repology.org/metapackage/perl:email-messageid)               |
 | perl-Email-MIME                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-mime.svg)](https://repology.org/metapackage/perl:email-mime)                         |
 | perl-Net-DNS-Resolver-Mock                               | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-dns-resolver-mock.svg)](https://repology.org/metapackage/perl:net-dns-resolver-mock)   |
+| perl-Archive-Zip                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:archive-zip.svg)](https://repology.org/metapackage/perl:archive-zip)                       |
+| perl-Class-Inspector                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:class-inspector.svg)](https://repology.org/metapackage/perl:class-inspector)               |
+| perl-Data-OptList                                        | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:data-optlist.svg)](https://repology.org/metapackage/perl:data-optlist)                     |
+| perl-Params-Util                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:params-util.svg)](https://repology.org/metapackage/perl:params-util)                       |
 
 Radio
 -----
