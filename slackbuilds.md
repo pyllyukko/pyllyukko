@@ -30,6 +30,7 @@ My SlackBuilds in SBo
 | libmodsecurity                                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/libmodsecurity.svg)](https://repology.org/metapackage/libmodsecurity)                   |
 | [edit](https://github.com/microsoft/edit)                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/microsoft-edit.svg)](https://repology.org/metapackage/microsoft-edit)                   |
 | lksctp-tools                                             | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/lksctp-tools.svg)](https://repology.org/metapackage/lksctp-tools)                       |
+| rng-tools                                                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/rng-tools.svg)](https://repology.org/metapackage/rng-tools)                             |
 
 Perl
 ----
