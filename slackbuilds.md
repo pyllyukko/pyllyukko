@@ -64,6 +64,7 @@ Perl
 | perl-Crypt-URandom                                       | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:crypt-urandom.svg)](https://repology.org/metapackage/perl:crypt-urandom)                   |
 | perl-Test-Exception                                      | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:test-exception.svg)](https://repology.org/metapackage/perl:test-exception)                 |
 | perl-Test-Pod                                            | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:test-pod.svg)](https://repology.org/metapackage/perl:test-pod)                             |
+| perl-Test-Output                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:test-output.svg)](https://repology.org/metapackage/perl:test-output)                       |
 
 Radio
 -----
