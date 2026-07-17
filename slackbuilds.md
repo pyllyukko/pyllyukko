@@ -47,7 +47,6 @@ Perl
 | perl-MooX-Types-MooseLike                                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:moox-types-mooselike.svg)](https://repology.org/metapackage/perl:moox-types-mooselike)     |
 | perl-Throwable                                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:throwable.svg)](https://repology.org/metapackage/perl:throwable)                           |
 | perl-Email-Simple                                        | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-simple.svg)](https://repology.org/metapackage/perl:email-simple)                     |
-| perl-Email-MessageID                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-messageid.svg)](https://repology.org/metapackage/perl:email-messageid)               |
 | perl-Email-MIME-ContentType                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-mime-contenttype.svg)](https://repology.org/metapackage/perl:email-mime-contenttype) |
 | perl-Email-MIME-Encodings                                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:email-mime-encodings.svg)](https://repology.org/metapackage/perl:email-mime-encodings)     |
 | perl-Test-File-ShareDir                                  | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:test-file-sharedir.svg)](https://repology.org/metapackage/perl:test-file-sharedir)         |
@@ -61,6 +60,8 @@ Perl
 | perl-Class-Inspector                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:class-inspector.svg)](https://repology.org/metapackage/perl:class-inspector)               |
 | perl-Data-OptList                                        | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:data-optlist.svg)](https://repology.org/metapackage/perl:data-optlist)                     |
 | perl-Params-Util                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:params-util.svg)](https://repology.org/metapackage/perl:params-util)                       |
+| perl-Sub-Exporter                                        | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:sub-exporter.svg)](https://repology.org/metapackage/perl:sub-exporter)                     |
+| perl-Crypt-URandom                                       | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:crypt-urandom.svg)](https://repology.org/metapackage/perl:crypt-urandom)                   |
 
 Radio
 -----
