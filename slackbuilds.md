@@ -31,6 +31,7 @@ My SlackBuilds in SBo
 | [edit](https://github.com/microsoft/edit)                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/microsoft-edit.svg)](https://repology.org/metapackage/microsoft-edit)                   |
 | lksctp-tools                                             | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/lksctp-tools.svg)](https://repology.org/metapackage/lksctp-tools)                       |
 | rng-tools                                                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/rng-tools.svg)](https://repology.org/metapackage/rng-tools)                             |
+| spamassassin                                             | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/spamassassin.svg)](https://repology.org/metapackage/spamassassin)                       |
 
 Perl
 ----
@@ -65,6 +66,16 @@ Perl
 | perl-Test-Exception                                      | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:test-exception.svg)](https://repology.org/metapackage/perl:test-exception)                 |
 | perl-Test-Pod                                            | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:test-pod.svg)](https://repology.org/metapackage/perl:test-pod)                             |
 | perl-Test-Output                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:test-output.svg)](https://repology.org/metapackage/perl:test-output)                       |
+| perl-Crypt-OpenSSL-Bignum                                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:crypt-openssl-bignum.svg)](https://repology.org/metapackage/perl:crypt-openssl-bignum)     |
+| perl-Encode-Detect                                       | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:encode-detect.svg)](https://repology.org/metapackage/perl:encode-detect)                   |
+| perl-Geography-Countries                                 | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:geography-countries.svg)](https://repology.org/metapackage/perl:geography-countries)       |
+| perl-IP-Country                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:ip-country.svg)](https://repology.org/metapackage/perl:ip-country)                         |
+| perl-Image-Info                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:image-info.svg)](https://repology.org/metapackage/perl:image-info)                         |
+| perl-Mail-DKIM                                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:mail-dkim.svg)](https://repology.org/metapackage/perl:mail-dkim)                           |
+| perl-Mail-SPF                                            | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:mail-spf.svg)](https://repology.org/metapackage/perl:mail-spf)                             |
+| perl-Net-DNS-Resolver-Programmable                       | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-dns-resolver-programmable.svg)](https://repology.org/metapackage/perl:net-dns-resolver-programmable) |
+| perl-Net-Ident                                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-ident.svg)](https://repology.org/metapackage/perl:net-ident)                           |
+| perl-NetAddr-IP                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:netaddr-ip.svg)](https://repology.org/metapackage/perl:netaddr-ip)                         |
 
 Radio
 -----
