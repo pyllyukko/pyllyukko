@@ -76,6 +76,11 @@ Perl
 | perl-Net-DNS-Resolver-Programmable                       | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-dns-resolver-programmable.svg)](https://repology.org/metapackage/perl:net-dns-resolver-programmable) |
 | perl-Net-Ident                                           | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-ident.svg)](https://repology.org/metapackage/perl:net-ident)                           |
 | perl-NetAddr-IP                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:netaddr-ip.svg)](https://repology.org/metapackage/perl:netaddr-ip)                         |
+| perl-net-ip                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-ip.svg)](https://repology.org/metapackage/perl:net-ip)                                 |
+| perl-net-dns                                             | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:net-dns.svg)](https://repology.org/metapackage/perl:net-dns)                               |
+| perl-MRO-Compat                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:mro-compat.svg)](https://repology.org/metapackage/perl:mro-compat)                         |
+| perl-digest-hmac                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:digest-hmac.svg)](https://repology.org/metapackage/perl:digest-hmac)                       |
+| perl-IO-Socket-INET6                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:io-socket-inet6.svg)](https://repology.org/metapackage/perl:io-socket-inet6)               |
 
 Radio
 -----
