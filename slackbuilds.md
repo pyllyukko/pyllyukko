@@ -81,7 +81,7 @@ Perl
 | perl-MRO-Compat                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:mro-compat.svg)](https://repology.org/metapackage/perl:mro-compat)                         |
 | perl-digest-hmac                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:digest-hmac.svg)](https://repology.org/metapackage/perl:digest-hmac)                       |
 | perl-IO-Socket-INET6                                     | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:io-socket-inet6.svg)](https://repology.org/metapackage/perl:io-socket-inet6)               |
-| perl-IP-Country-DB\_File                                 | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:ip-country-db_file.svg)](https://repology.org/metapackage/perl:ip-country-db_file)         |
+| perl-IP-Country-DB\_File                                 | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:ip-country-db-file.svg)](https://repology.org/metapackage/perl:ip-country-db-file)         |
 | perl-MIME-Types                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:mime-types.svg)](https://repology.org/metapackage/perl:mime-types)                         |
 | perl-Math-BigInt                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:math-bigint.svg)](https://repology.org/metapackage/perl:math-bigint)                       |
 
