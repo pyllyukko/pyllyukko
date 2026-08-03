@@ -85,6 +85,7 @@ Perl
 | perl-MIME-Types                                          | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:mime-types.svg)](https://repology.org/metapackage/perl:mime-types)                         |
 | perl-Math-BigInt                                         | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:math-bigint.svg)](https://repology.org/metapackage/perl:math-bigint)                       |
 | perl-Module-Runtime                                      | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:module-runtime.svg)](https://repology.org/metapackage/perl:module-runtime)                 |
+| perl-IP-Geolocation-MMDB                                 | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/perl:ip-geolocation-mmdb.svg)](https://repology.org/metapackage/perl:ip-geolocation-mmdb)       |
 
 Radio
 -----
