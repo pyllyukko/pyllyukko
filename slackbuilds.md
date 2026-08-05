@@ -32,6 +32,7 @@ My SlackBuilds in SBo
 | lksctp-tools                                             | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/lksctp-tools.svg)](https://repology.org/metapackage/lksctp-tools)                       |
 | rng-tools                                                | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/rng-tools.svg)](https://repology.org/metapackage/rng-tools)                             |
 | spamassassin                                             | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/spamassassin.svg)](https://repology.org/metapackage/spamassassin)                       |
+| amavisd-new                                              | [![SlackBuilds package](https://repology.org/badge/version-for-repo/slackbuilds/amavisd-new.svg)](https://repology.org/metapackage/amavisd-new)                         |
 
 Perl
 ----
